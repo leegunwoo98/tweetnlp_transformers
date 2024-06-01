@@ -33,7 +33,7 @@ setup(
         'numpy',
         'urlextract',
         "transformers<=4.29.2",  # push-to-model is not working for latest version
-        "huggingface-hub<=0.9.1",
+        "huggingface-hub",
         'sentence_transformers',
         'torch',
         'datasets'
