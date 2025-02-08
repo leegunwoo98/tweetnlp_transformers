@@ -32,7 +32,7 @@ setup(
         "ray",
         'numpy',
         'urlextract',
-        "transformers = "^4.36"
+        "transformers = "^4.36",
         "huggingface-hub",
         'sentence_transformers',
         'torch',
